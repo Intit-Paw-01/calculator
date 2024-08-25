@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    background: url(c6a1c9f91f82c3fe5af6c5d83cc0bf7e.gif) no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    font-size: 4.5rem;
+    font-weight: 600;
+    color: rgba(255, 68, 0, 0.857);
+    backdrop-filter: blur(3px);
+    padding: 10px px;
+    border: 2px solid rgba(141, 141, 141, 0.089);
+    border-radius: 5px;
+}
